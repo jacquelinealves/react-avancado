@@ -25,7 +25,7 @@ Curso sobre e-commerce real do zero, indo do backend ao frontend.
 
 ### GraphQL
 
-Linguagem de consulta de dados.
+Linguagem de consulta de dados
 Melhoria da Rest API
 Funciona muito bem com React
 
