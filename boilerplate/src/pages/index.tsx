@@ -7,7 +7,7 @@ type titleProps = {
   title: string;
 };
 
-// const bla = 'string';
+// const bla = 'string';cd .
 
 export default function Home({ title = 'React Avançado' }: titleProps) {
   return (
